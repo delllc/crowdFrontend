@@ -10,7 +10,8 @@
     "plugin:react-hooks/recommended",
     "plugin:effector/recommended",
     "plugin:effector/react",
-    "plugin:effector/patronum"
+    "plugin:effector/patronum",
+    "plugin:storybook/recommended"
   ],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
